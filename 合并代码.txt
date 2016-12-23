@@ -1,0 +1,11 @@
+1、更新分支代码，SVN Update
+
+2、提交本地的分支代码，SVN Commit...
+
+3、更新主干代码，SVN Update
+
+4、提交本地的主干代码，SVN Commit...
+
+5、打开分支（文件夹或文件）的日志，TortoiseSVN -> Show log
+
+6、找到要合并到主干的日志，然后右键打开菜单，选择Merge revision to... -> 选择主干目录确定即可。
